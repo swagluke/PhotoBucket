@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "999363884410",
+    "firebase_url": "https://luke-favorite-things.firebaseio.com",
+    "project_id": "luke-favorite-things",
+    "storage_bucket": "luke-favorite-things.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999363884410:android:b8c005d85f714d15",
+        "android_client_info": {
+          "package_name": "edu.zhanglrose_hulman.photobucket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999363884410-gohernb9co42uklui1fhbu92trdlum1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVPwotVU0fDxJVyRahoQf5byLfkm3hddw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
